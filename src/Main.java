@@ -5,5 +5,7 @@ public class Main {
         int i = 1;
         System.out.println(8);
         System.out.println(55);
+        String str = new String("12345!");
+        System.out.println(str);
     }
 }
