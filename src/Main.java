@@ -5,7 +5,5 @@ public class Main {
         int i = 1;
         System.out.println(8);
         System.out.println(55);
-
-        System.out.println(77777777);
     }
 }
