@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3265f6aa-7003-46e4-9f7b-8217e3a86e83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lambda/_Lambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/_Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/_Lambdas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._Lambdas" />
+        <item itemvalue="Application._Lambdas" />
         <item itemvalue="Application._Lambdas" />
       </list>
     </recent_temporary>
@@ -115,7 +116,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="CORP-2.1" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -131,6 +132,7 @@
     <MESSAGE value="первый комит" />
     <MESSAGE value="добавил int i" />
     <MESSAGE value="77777" />
-    <option name="LAST_COMMIT_MESSAGE" value="77777" />
+    <MESSAGE value="Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda" />
   </component>
 </project>
