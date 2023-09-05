@@ -2,12 +2,27 @@ package Lambda;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Optional;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class _Lambdas {
     public static void main(String[] args) {
+        System.out.println("Hello");
+        List<Person> list = new ArrayList<>();
+        list.add(new Person("vika"));
+        list.add(new Person("vitos"));
+        list.stream()
+                .map(e->e.getName().toUpperCase()).forEach(System.out::println);
+    }
+
+    static class Person {
+        private final String name;
+
+        public Person(String name) {
+            this.name = name;
         System.out.println("Hello");
         List<Person> list = new ArrayList<>();
         list.add(new Person("vika"));
@@ -43,6 +58,16 @@ class Person {
         return Optional.ofNullable(name);
     }
 
+        public String getName() {
+            return name;
+        }
+
+        @Override
+        public String toString() {
+            return "Person{" +
+                    "name='" + name + '\'' +
+                    '}';
+        }
     @Override
     public String toString() {
         return "Person{" +
