@@ -5,6 +5,5 @@ public class Main {
         Parent parent = new Parent();
         Children children = new Children();
         System.out.println("Par "+parent.method());
-        System.out.println("Chil "+children.method());
     }
 }
