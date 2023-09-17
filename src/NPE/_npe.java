@@ -14,6 +14,7 @@ public class _npe {
 
         Person vasa = new Person("vasa", "null");
         System.out.println(vasa.getEmail().map(String::toUpperCase).orElse("fuck"));
+        System.out.println("ups");
     }
 }
 
