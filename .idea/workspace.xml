@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3265f6aa-7003-46e4-9f7b-8217e3a86e83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NPE/_npe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NPE/_npe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
       <list>
         <item itemvalue="Application._Lambdas" />
         <item itemvalue="Application._Lambdas" />
+        <item itemvalue="Application._Lambdas" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693854763660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="i2">
+      <created>1694971572834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694971572834</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +139,7 @@
     <MESSAGE value="первый комит" />
     <MESSAGE value="добавил int i" />
     <MESSAGE value="77777" />
-    <option name="LAST_COMMIT_MESSAGE" value="77777" />
+    <MESSAGE value="i2" />
+    <option name="LAST_COMMIT_MESSAGE" value="i2" />
   </component>
 </project>
